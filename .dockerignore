@@ -1,0 +1,11 @@
+.local
+
+.env
+
+Dockerfile
+
+.tool-versions
+
+.gitignore
+
+.vscode
